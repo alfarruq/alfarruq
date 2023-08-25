@@ -14,7 +14,7 @@
 </div>
 
 <br/>
-- 📭 &nbsp; How to reach me: [alfarruq](https://t.me/alfarruq)
+- 📭 &nbsp; How to reach me: [alfarruq](https://t.me/alfarruq/)
 
 
 
