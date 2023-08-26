@@ -11,7 +11,7 @@
  <code> <img  src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"   width="30px" > </code> 
  <code> <img  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png"   width="30px" > </code> 
  <code> <img  src="https://logodownload.org/wp-content/uploads/2017/05/google-chrome-logo.png"   width="30px" > </code> 
- <code> <img  src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp"   width="30px" > </code>
+ <code> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png"   width="30px" > </code>
 </div>
 
 <br/>
