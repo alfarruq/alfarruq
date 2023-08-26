@@ -15,7 +15,9 @@
 </div>
 
 <br/>
-<h4> - 📭 &nbsp; How to reach me: </h4> <a  target="_blank" href="https://t.me/alfarruq/" > alfarruq ✔ </a> or mengboyevfarrux@gmail.com
+<div style="display:"flex" >
+   <h4> - 📭 &nbsp; How to reach me: </h4> <a  target="_blank" href="https://t.me/alfarruq/" > alfarruq ✔ </a> or mengboyevfarrux@gmail.com
+</div>
 
 
 
