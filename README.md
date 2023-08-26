@@ -15,9 +15,9 @@
 </div>
 
 <br/>
-<div style="display:flex;  " >
+<div style="display: flex;"  >
    <h4> - 📭 &nbsp; How to reach me: </h4>
-   <span> <a  target="_blank" href="https://t.me/alfarruq/" > alfarruq ✔ </a> or   mengboyevfarrux@gmail.com </span>
+   <p> <a  target="_blank" href="https://t.me/alfarruq/" > alfarruq ✔ </a> or   mengboyevfarrux@gmail.com </p>
 </div>
 
 
