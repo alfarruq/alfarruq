@@ -5,14 +5,14 @@
 <img  src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"   width="30px" > 
 <img  src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"   width="35px" >
 <img  src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png"   width="30px" >  
- <code> <img  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"   width="30px" > </code>  
- <code> <img  src="https://www.nicepng.com/png/full/222-2224705_react-js-logo.png"   width="30px"  height="32px" > </code>  
- <code> <img  src="https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png"   width="30px" > </code> 
- <code> <img  src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"   width="30px" > </code> 
- <code> <img  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png"   width="30px" > </code> 
- <code> <img  src="https://logodownload.org/wp-content/uploads/2017/05/google-chrome-logo.png"   width="30px" > </code> 
- <code> <img  src="https://logodownload.org/wp-content/uploads/2017/05/google-chrome-logo.png"   width="30px" > </code> 
- <code> <img  src="https://s3-alpha.figma.com/hub/file/2815952264/7a5ebfb0-0508-48ab-be9a-31b36ba53f97-cover.png"   width="30px" > </code>
+<img  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"   width="30px" >  
+<img  src="https://www.nicepng.com/png/full/222-2224705_react-js-logo.png"   width="30px"  height="32px" > 
+<img  src="https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png"   width="30px" >
+<img  src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"   width="30px" >
+<img  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png"   width="30px" >
+<img  src="https://logodownload.org/wp-content/uploads/2017/05/google-chrome-logo.png"   width="30px" >
+<img  src="https://logodownload.org/wp-content/uploads/2017/05/google-chrome-logo.png"   width="30px" >
+<img  src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png"   width="30px" > </code>
  and others...
 </div>
 
