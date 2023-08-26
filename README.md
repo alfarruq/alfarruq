@@ -12,6 +12,7 @@
  <code> <img  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png"   width="30px" > </code> 
  <code> <img  src="https://logodownload.org/wp-content/uploads/2017/05/google-chrome-logo.png"   width="30px" > </code> 
  <code> <img  src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png"   width="30px" > </code>
+ and others...
 </div>
 
 <br/>
